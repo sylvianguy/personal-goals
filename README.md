@@ -13,6 +13,7 @@ Personal Goals
 
 - [ ] Build a curriculum for FED Testing Workshop
 - [ ] Build something interactive & sharable, combining calligraphy svg?
+- [ ] Write an abstract for a talk
 - [ ] Learn Node + Express and build an API for funzies
 - [ ] Read Javascript Ninja and write cheatsheet 
 - [ ] Set-up Shopify site for Calligraphy Business
