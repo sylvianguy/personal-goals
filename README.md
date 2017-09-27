@@ -1,6 +1,3 @@
-# personal-goals
-Personal goals made public ✌🏽
-
 Personal Goals
 ==============
 
