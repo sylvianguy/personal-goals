@@ -11,7 +11,7 @@ Personal Goals
 
 ### Things I'll do for the next 3 months:
 
-- [ ] Build a curriculum for FED Testing Workshop
+- [ ] Build curriculum for FED Testing Workshop
 - [ ] Build something interactive & sharable, combining calligraphy svg?
 - [ ] Write an abstract for a talk
 - [ ] Learn Node + Express and build an API for funzies
