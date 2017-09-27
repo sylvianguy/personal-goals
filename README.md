@@ -12,7 +12,7 @@ Personal Goals
 ### Things I'll do for the next 3 months:
 
 - [ ] Build a curriculum for FED Testing Workshop
-- [ ] Build something interactive, combining calligraphy svg?
+- [ ] Build something interactive & sharable, combining calligraphy svg?
 - [ ] Learn Node + Express and build an API for funzies
 - [ ] Read Javascript Ninja and write cheatsheet 
 - [ ] Set-up Shopify site for Calligraphy Business
