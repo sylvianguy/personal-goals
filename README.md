@@ -16,6 +16,6 @@ Personal Goals
 - [ ] Write an abstract for a talk
 - [ ] Learn Node + Express and build an API for funzies
 - [ ] Read Javascript Ninja and write cheatsheet 
-- [ ] Set-up Shopify site for Calligraphy Business
+- ~~Set-up Shopify site for Greeting Card Business~~
 
 
