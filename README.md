@@ -2,7 +2,7 @@ Personal Goals
 ==============
 
 # Overarching Goals for 2017-2018:
-1. Be a Speaker
+1. Submit to do a talk
 2. Fullstackify Myself
 3. Launch Calligraphy/Creative Side Business
 5. Start Salsa Dancing Lessons
@@ -13,7 +13,6 @@ Personal Goals
 
 - [ ] Build curriculum for FED Testing Workshop
 - [ ] Build something interactive & sharable, combining calligraphy svg?
-- [ ] Write an abstract for a talk
 - [ ] Learn Node + Express and build an API for funzies
 - [ ] Read Javascript Ninja and write cheatsheet 
 - ~~Set-up Shopify site for Greeting Card Business~~
